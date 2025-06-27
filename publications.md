@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Publications
-subtitle:   
+subtitle: [Google Scholar](https://scholar.google.com/citations?user=us0AM-wAAAAJ&hl=en)
 ---
+You can also browse my [Google Scholar](https://scholar.google.com/citations?user=us0AM-wAAAAJ&hl=en).
 
 ### 2025
 
