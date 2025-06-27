@@ -25,11 +25,11 @@ navbar-links:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
-  Home: "aboutme"
-  Research: "aboutme"
-  Publications: "aboutme"
-  Members: "aboutme"
-  From PI: "aboutme"
+  Home: "home"
+  Research: "research"
+  Publications: "publications"
+  Members: "members"
+  From PI: "index"
   
 ################
 # --- Logo --- #
