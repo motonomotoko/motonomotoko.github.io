@@ -7,7 +7,7 @@ subtitle:
 
 <div class="people-grid">
   <div class="person-card">
-    <img src="/assets/images/crepe.jpg" alt="Tadasu Nozaki">
+    <img src="/assets/img/crepe.jpg" alt="Tadasu Nozaki">
     <div class="name"><a href="https://www.umass.edu/molecular-cellular/about/directory/tadasu-nozaki" target="_blank">Tadasu Nozaki</a></div>
     <div class="affiliation">University of Massachusetts Amherst</div>
   </div>
