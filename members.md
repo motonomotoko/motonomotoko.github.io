@@ -11,12 +11,12 @@ subtitle:
     <div class="name"><a href="https://www.umass.edu/molecular-cellular/about/directory/tadasu-nozaki" target="_blank">Tadasu Nozaki</a></div>
     <div class="affiliation">University of Massachusetts Amherst</div>
   </div>
-<!-- 
+  
   <div class="person-card">
-    <img src="/assets/images/john-smith.jpg" alt="John Smith">
-    <div class="name">John Smith</div>
-    <div class="affiliation">World Health Organization</div>
+    <img src="/assets/img/crepe.jpg" alt="Tadasu Nozaki">
+    <div class="name"><a href="https://www.umass.edu/molecular-cellular/about/directory/tadasu-nozaki" target="_blank">Tadasu Nozaki</a></div>
+    <div class="affiliation">University of Massachusetts Amherst</div>
   </div>
--->
+  
   <!-- 他の人物も同様に -->
 </div>
