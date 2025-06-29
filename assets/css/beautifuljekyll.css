@@ -1125,7 +1125,7 @@ pre {
   }
 }
 
-/* --- people grid --- */
+/* --- people grid 
 .people-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -1156,3 +1156,4 @@ pre {
   font-size: 0.9rem;
   color: #555;
 }
+--- */
