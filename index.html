@@ -3,7 +3,31 @@ layout: home
 title: 
 subtitle: 
 ---
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+<div class="hero">
+  <!-- GIF画像を中央配置 -->
+  <img src="assets/img/sample.gif" alt="Sample GIF">
+  <div class="caption">Meiosis is the modified cellular program.</div>
+</div>
 
-{: align="center"}
-# Meiosis is the modified cellular program.
+<style>
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.hero img {
+  max-width: 300px; /* 大きすぎないように */
+  height: auto;
+}
+
+.caption {
+  margin-top: 1rem;
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #333;
+}
+</style>
