@@ -25,11 +25,11 @@ navbar-links:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
-  Home: "home"
+  Home: "index"
   Research: "research"
   Publications: "publications"
   Members: "members"
-  From PI: "index"
+  #From PI: "index"  ホーム画面に統合したため削除
   
 ################
 # --- Logo --- #
