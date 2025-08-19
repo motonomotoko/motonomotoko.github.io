@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Members
-subtitle: 
+subtitle: People who drive our research forward
 ---
 
 
