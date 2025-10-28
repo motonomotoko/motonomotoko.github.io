@@ -43,7 +43,7 @@ body {
   border-radius: 12px; /* 少し角を丸くすると柔らかい印象 */
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); /* ごく薄い影 */
 }
-
+  
 /* キャプション */
 .caption {
   margin-top: 1rem;
@@ -66,12 +66,22 @@ body {
 
 /* レスポンシブ対応 */
 @media (max-width: 600px) {
+  .hero {
+    padding: 2rem 0;
+  }
+
+  .hero img {
+    width: 100vw;        /* 横幅いっぱい */
+    max-width: none;     /* 上限を解除 */
+    border-radius: 0;    /* 角丸をなくして自然に */
+    margin-bottom: 1.5rem;
+    box-shadow: none;    /* 影も省いて軽く */
+  }
+
   .hero h1 {
     font-size: 1.6rem;
-  }
-  .hero img {
-    max-width: 220px;
+    padding: 0 1rem;     /* 端に寄りすぎないように */
   }
 }
-
+  
 </style>
