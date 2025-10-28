@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/img/path.jpg
 ---
 
-# My interest
+# Research interest
 Chromosomes are living information media within the cell, integrating digital genetic information with their physical entity. The processing of this information relies on molecular interactions, thermodynamic fluctuations, and mechanical forces. Our lab is interested in the dynamic mechanisms that define the dual nature of chromosomes.
 
 # Our focus
@@ -19,14 +19,21 @@ Major projects in our lab will focus on the following questions:
 2. [Algorithms in the cell: How is genetic information efficiently searched and recognized?](#MolecularPhysicalMechanism)
 3. [Evolution of chromosomes: Why and how do chromosome size, number, and shape vary so widely across eukaryotes?](#ChromatinDiversity)
 
+  
 
-## Chromosome dynamics: How do chromosomes move, organize, and interact in the crowded environment of the nucleus and the cell? {#ChromatinDynamics}
+## 1. Chromosome dynamics {#ChromatinDynamics}
+How do chromosomes move, organize, and interact in the crowded environment of the nucleus and the cell?  
+  
 ![ChromatinDynamics](https://motonomotoko.github.io/assets/img/ChromatinDynamics.png){: .mx-auto.d-block :}
 
-## Algorithms in the cell: How is genetic information efficiently searched and recognized? {#MolecularPhysicalMechanism}
+## 2. Algorithms in the cell {#MolecularPhysicalMechanism}
+How is genetic information efficiently searched and recognized?  
+  
 ![MolecularPhysicalMechanism](https://motonomotoko.github.io/assets/img/MolecularPhysicalMechanism.png
 ){: .mx-auto.d-block :}
 
-## Evolution of chromosomes: Why and how do chromosome size, number, and shape vary so widely across eukaryotes? {#ChromatinDiversity}
+## 3. Evolution of chromosomes {#ChromatinDiversity} 
+Why and how do chromosome size, number, and shape vary so widely across eukaryotes?  
+  
 ![ChromatinDiversity](https://motonomotoko.github.io/assets/img/ChromatinDiversity.png
 ){: .mx-auto.d-block :}
