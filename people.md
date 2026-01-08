@@ -6,7 +6,7 @@ subtitle: People who drive our research forward.
 
 <section class="member">
   <div class="member-image">
-    <img src="/assets/img/crepe.jpg" alt="Tadasu Nozaki">
+    <img src="/assets/img/tadasu.png" alt="Tadasu Nozaki">
   </div>
   <div class="member-info">
     <h2>Tadasu Nozaki</h2>
