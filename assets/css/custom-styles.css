@@ -96,6 +96,7 @@
 
 .footer-logos img {
   height: 100px;                /* ロゴの高さを揃える */
+  margin-bottom: 20px;
   width: auto;                 /* 比率は自動 */
   object-fit: contain;         /* 長方形ロゴも潰れない */
   /* opacity: 0.9;                 少し控えめに */
