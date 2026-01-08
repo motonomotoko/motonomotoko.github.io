@@ -2,7 +2,7 @@
 layout: page
 title: 
 subtitle: 
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/dissection.png
 ---
 
 # Research interest
