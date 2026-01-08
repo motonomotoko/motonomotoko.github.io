@@ -29,13 +29,14 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   People: "people"
-  Perspectives: "Perspectives"
+  Perspectives: "perspectives"
   #From PI: "index"  ホーム画面に統合したため削除
 
 ################
 # --- Add Perspectives page --- #
 ################
-  paginate_path: "/Perspectives/page:num/"
+paginate_path: "/perspectives/page:num/"
+paginate: 5
 
 ################
 # --- Logo --- #
