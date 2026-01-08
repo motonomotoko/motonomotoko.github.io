@@ -40,8 +40,7 @@
   margin-bottom: 3rem;
 }
 
-/* 写真（左列） */
-.member-image img {
+.member-image img {   /* 写真（左列） */
   width: 160px;
   height: auto;
   border-radius: 8px;
@@ -49,8 +48,7 @@
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
-/* 説明（右列） */
-.member-info {
+.member-info {   /* 説明（右列） */
   max-width: 800px;
 }
 
@@ -66,8 +64,7 @@
   margin-bottom: 0.2rem;
 }
 
-/* レスポンシブ：モバイルでは縦並び */
-@media (max-width: 800px) {
+@media (max-width: 800px) {　　　/* レスポンシブ：モバイルでは縦並び */
   .member {
     flex-direction: column;
     align-items: center;
@@ -81,3 +78,31 @@
     max-width: 280px;
   }
 }
+
+/*--lab footer--*/
+.lab-footer {
+  padding: 2rem 1rem;
+  background: #f5f7fa;         /* 薄めのグレー背景（任意） */
+  text-align: center;          /* スマホ時の中央寄せ */
+  margin-top: 3rem;
+}
+
+.footer-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;     /* 中央揃え */
+  gap: 1.5rem;                 /* ロゴ間の余白 */
+}
+
+.footer-logos img {
+  height: 50px;                /* ロゴの高さを揃える */
+  width: auto;                 /* 比率は自動 */
+  object-fit: contain;         /* 長方形ロゴも潰れない */
+  opacity: 0.9;                /* 少し控えめに */
+  transition: opacity 0.2s ease;
+}
+
+.footer-logos img:hover {
+  opacity: 1;
+}
+
