@@ -95,14 +95,17 @@
 }
 
 .footer-logos img {
-  height: 50px;                /* ロゴの高さを揃える */
+  height: 100px;                /* ロゴの高さを揃える */
   width: auto;                 /* 比率は自動 */
   object-fit: contain;         /* 長方形ロゴも潰れない */
-  opacity: 0.9;                /* 少し控えめに */
+  /* opacity: 0.9;                 少し控えめに */
   transition: opacity 0.2s ease;
+  filter: grayscale(100%);
+  opacity: 0.7;
 }
 
 .footer-logos img:hover {
+  filter: none;
   opacity: 1;
 }
 
