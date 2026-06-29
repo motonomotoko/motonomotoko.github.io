@@ -4,7 +4,7 @@ title: People
 subtitle: People who drive our research forward.
 ---
 
-# Faculty 
+## Faculty 
 <section class="member">
   <div class="member-image">
     <img src="/assets/img/tadasu.png" alt="Tadasu Nozaki">
@@ -29,7 +29,7 @@ subtitle: People who drive our research forward.
   </div>  
 </section>
 
-# Research Assistant 
+## Research Assistant 
 <section class="member">
   <div class="member-info">
     <h2>Christine Brown</h2>
@@ -37,7 +37,7 @@ subtitle: People who drive our research forward.
 </section>
 
 
-# Undergraduate Students (over 1 year experience)
+## Undergraduate Students (over 1 year experience)
 <section class="member">
   <div class="member-info">
     <h2>David Bai</h2>
