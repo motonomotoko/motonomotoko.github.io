@@ -10,13 +10,22 @@ subtitle: People who drive our research forward.
     <img src="/assets/img/tadasu.png" alt="Tadasu Nozaki">
   </div>
   <div class="member-info">
-    <h2>Tadasu Nozaki</h2>
-    <a herf="https://www.umass.edu/molecular-cellular/about/directory/tadasu-nozaki"><strong>Assistant Professor of Genetics</strong></a>
-    <a herf="tnozaki@umass.edu">tnozaki@umass.edu</a>
-    <a herf="https://www.umass.edu/molecular-cellular/about/directory/tadasu-nozaki">NCBI bibliography</a>
-    <a herf="https://scholar.google.com/citations?user=us0AM-wAAAAJ&hl=en">Google Scholar</a>
-    <a herf="https://orcid.org/0000-0003-0813-5551">ORCID</a>
-  </div>
+  <h2>Tadasu Nozaki</h2>
+    <p>
+      <a href="https://www.umass.edu/molecular-cellular/about/directory/tadasu-nozaki" target="_blank" rel="noopener"><strong>Assistant Professor of Genetics</strong></a>
+    </p>
+    <p>
+      <a href="mailto:tnozaki@umass.edu">tnozaki@umass.edu</a>
+    </p>
+    <p>
+      <a href="https://www.umass.edu/molecular-cellular/about/directory/tadasu-nozaki" target="_blank" rel="noopener">NCBI bibliography</a>
+    </p>
+    <p>
+      <a href="https://scholar.google.com/citations?user=us0AM-wAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+    <p>
+      <a href="https://orcid.org/0000-0003-0813-5551" target="_blank" rel="noopener">ORCID</a>
+    </p>
+  </div>  
 </section>
 
 # Research Assistant 
