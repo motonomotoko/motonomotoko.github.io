@@ -4,13 +4,14 @@ title: People
 subtitle: People who drive our research forward.
 ---
 
+## Faculty 
 <section class="member">
   <div class="member-image">
     <img src="/assets/img/tadasu.png" alt="Tadasu Nozaki">
   </div>
   <div class="member-info">
     <h2>Tadasu Nozaki</h2>
-    <p><strong>[Assistant Professor of Genetics](https://www.umass.edu/molecular-cellular/about/directory/tadasu-nozaki)</strong></p>
+    <p><strong>[Assistant Professor of Genetics]</strong></p>
     <p>[tnozaki@umass.edu](tnozaki@umass.edu)</p>
     <p>[NCBI bibliography](https://www.umass.edu/molecular-cellular/about/directory/tadasu-nozaki)</p>
     <p>[Google Scholar](https://scholar.google.com/citations?user=us0AM-wAAAAJ&hl=en)</p>
