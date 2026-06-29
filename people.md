@@ -22,6 +22,7 @@ subtitle: People who drive our research forward.
     </p>
     <p>
       <a href="https://scholar.google.com/citations?user=us0AM-wAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+    </p>
     <p>
       <a href="https://orcid.org/0000-0003-0813-5551" target="_blank" rel="noopener">ORCID</a>
     </p>
