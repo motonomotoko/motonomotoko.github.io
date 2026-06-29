@@ -44,7 +44,7 @@ paginate: 5
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/avatar-icon.png"  062725 deleted
+ avatar: "assets/img/fav_img.png"  062725 deleted
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 # round-avatar: true 062725 deleted
@@ -150,14 +150,12 @@ navbar-var-length: false
 
 page-col: "#FFFFFF"
 text-col: "#404040"
-
 link-col: "#008AFF"
-
 hover-col: "#0085A1"
 # navbar-col: "#EAEAEA"
 navbar-col: "#000000"
- navbar-text-col: "#EAEAEA"
-# navbar-text-col: "#EAEAEA"
+#navbar-text-col: "#777777"
+navbar-text-col: "#EAEAEA"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
@@ -167,7 +165,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "assets/img/hover_img.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
