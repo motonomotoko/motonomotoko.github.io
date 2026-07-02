@@ -110,3 +110,35 @@
   opacity: 1;
 }
 
+
+/* ---------- Hero Home用設定---------- */
+
+.home-page .intro-header.big-img {
+    height:100vh;
+    min-height:700px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+}
+
+.home-page .intro-header .page-heading{
+    padding-top:0;
+
+}
+
+.home-page .page-heading h1{
+    font-size:4rem;
+    font-weight:700;
+    letter-spacing:1px;
+
+}
+
+.home-page .page-heading .page-subheading{
+    font-size:1.6rem;
+    max-width:850px;
+    margin:auto;
+    line-height:1.5;
+    margin-top:20px;
+
+}
