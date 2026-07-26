@@ -114,14 +114,14 @@
 /* ---------- Hero Home用設定---------- */
 
 .home-page .intro-header.big-img {
-    height:100vh;
+    height:80vh;
     min-height:700px;
     display:flex;
     align-items:center;
     justify-content:center;
 
 }
-
+/*
 .home-page .intro-header .page-heading{
     padding-top:0;
 
@@ -142,3 +142,4 @@
     margin-top:20px;
 
 }
+*/
