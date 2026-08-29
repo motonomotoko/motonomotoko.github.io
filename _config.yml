@@ -52,7 +52,6 @@ paginate: 5
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: "assets/img/hover_img.png"
-title-img: "assets/img/faviconT.png"
 
 #####################################
 # --- Footer social media links --- #
